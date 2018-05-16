@@ -1,4 +1,6 @@
 body {
   background-image:url("background-brick.jpg");
   background-repeat: repeat-x;
+  background-position: right top;
+  background-attachment: fixed;
 }
