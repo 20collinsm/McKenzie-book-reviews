@@ -1,3 +1,4 @@
 body {
-  background-image:background-brick.jpg;
+  background-image:url("background-brick.jpg");
+  background-repeat: repeat-x;
 }
