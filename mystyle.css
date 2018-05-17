@@ -80,3 +80,12 @@ a.link:link, a.link:visited {
 a.link:hover, a.link:active {
 	background-color:#ee2e31;
 }
+
+h2.subtitle {
+	background-color:#1d7874;
+	padding:1em;
+	border-width:2px;
+	border-style:dashed;
+	border-color:black;
+	margin:10px;
+}
