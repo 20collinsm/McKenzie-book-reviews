@@ -85,7 +85,7 @@ h2.subtitle {
 	background-color:#1d7874;
 	padding:1em;
 	border-width:2px;
-	border-style:dashed;
+	border-style:solid;
 	border-color:black;
 	margin:10px;
 }
