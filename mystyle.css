@@ -23,7 +23,7 @@ nav {
 	right:2px;
 	left:2px;
 	top:100px;
-p {
+p.bio {
 	background-color:#fcb8c7;
 	padding:1em;
 	border-width:10px;
@@ -32,5 +32,5 @@ p {
 	margin:10px;
 }
 ul {
-	align:left;
+	text-align:left;
 }
