@@ -66,3 +66,17 @@ ul {
 	border-color:black;
 	margin:10px;
 }
+
+a.link:link, a.link:visited {
+	background-color:#071e22;
+	color:#f4c095;
+	padding: 14px 25px;
+	text-align:center;
+	text-decoration:underline;
+	display:inline-block;
+	width:7.2em;
+}
+
+a.link:hover, a.link:active {
+	background-color:#ee2e31;
+}
