@@ -27,7 +27,7 @@ nav {
 }
 
 p#bio {
-	background-color:#fcb8c7;
+	background-color:#1d7874;
 	padding:1em;
 	border-width:2px;
 	border-style:dashed;
@@ -40,7 +40,7 @@ li {
 }
 	
 h1 {
-	background-color:#fcb8c7;
+	background-color:#ee2e31;
 	padding:1em;
 	border-width:10px;
 	border-style:double;
@@ -49,16 +49,17 @@ h1 {
 }
 
 h3 {
-	background-color:#a2efea;
+	background-color:#071e22;
 	padding:1em;
 	border-width:2px;
 	border-style:dotted;
 	border-color:black;
+	color:#f4c095;
 	margin:10px;
 }
 
 ul {
-	background-color:#ca8dfc;
+	background-color:#679289;
 	padding:1em;
 	border-width:1px;
 	border-style:dashed;
