@@ -89,3 +89,21 @@ h2.subtitle {
 	border-color:black;
 	margin:10px;
 }
+
+table {
+	text-align:center;
+	padding:1em;
+	border-width:10px;
+	border-style:solid;
+	border-color:black;
+	margin-left:275px;
+	background-color:#679289;
+	position:inherit;
+}
+td {
+	padding:1em;
+	border-width:3px;
+	border-style:solid;
+	border-color:black;
+	margin:10px;
+}
