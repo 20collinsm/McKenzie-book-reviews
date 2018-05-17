@@ -23,7 +23,7 @@ nav {
 	right:2px;
 	left:2px;
 	top:130px;
-p.bio {
+p#bio {
 	background-color:#fcb8c7;
 	padding:1em;
 	border-width:10px;
