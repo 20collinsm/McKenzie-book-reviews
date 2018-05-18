@@ -13,19 +13,6 @@ body {
   margin: 0 auto;
 }
 
-nav {
-	padding: 0.25em;
-	text-decoration:underline;
-	background-color:#f4c095;
-	color:#071e22;
-	border:2px solid black;
-	float:center;
-	position:fixed;
-	right:2px;
-	left:2px;
-	top:3px;
-}
-
 p#bio {
 	background-color:#1d7874;
 	padding:1em;
