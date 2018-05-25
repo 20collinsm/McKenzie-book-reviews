@@ -106,6 +106,9 @@ h4 {
 	margin:10px;
 }
 
+.checked {
+    color: orange;
+}
 p {
 	background-color:#679289;
 	padding:1em;
