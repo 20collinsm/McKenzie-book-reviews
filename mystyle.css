@@ -133,7 +133,7 @@ img.list {
   margin-bottom: 10px;
 }
 
-.custom-counter li::before {
+.custom-counter li.number::before {
   content: counter(step-counter);
   margin-right: 5px;
   font-size: 80%;
