@@ -24,6 +24,7 @@ p#bio {
 	
 li {
 	text-align:left;
+	counter-increment: li
 }
 	
 h1 {
@@ -128,4 +129,8 @@ li::before {
   	display: inline-block; 
 	width: 1em;
   	margin-left: -1em
+}
+
+ol {
+	counter-reset: li
 }
