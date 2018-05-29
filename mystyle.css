@@ -24,7 +24,6 @@ p#bio {
 	
 li {
 	text-align:left;
-	counter-increment: li
 }
 	
 h1 {
@@ -121,16 +120,4 @@ p {
 
 img.list {
 	text-align:center;
-}
-
-li::before {
-	content: counter(li); 
-	color: #ee2e31;
-  	display: inline-block; 
-	width: 1em;
-  	margin-left: -1em
-}
-
-ol {
-	counter-reset: li
 }
