@@ -132,13 +132,13 @@ ol.circles-list {
      
     counter-reset: li-counter;
 }
-ol.circles-list > li.numbers{
+ol.circles-list > li.number{
     position: relative;
     margin-bottom: 20px;
     padding-left: 0.5em;
     min-height: 3em;
 }
-ol.circles-list > li.numbers:before {
+ol.circles-list > li.number:before {
     position: absolute;
     top: 0;
     left: -1.33em;
