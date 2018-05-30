@@ -129,7 +129,6 @@ img.list {
 }
 
 .custom-counter li {
-  counter-increment: step-counter;
   margin-bottom: 10px;
 }
 
