@@ -133,7 +133,7 @@ ol.tilted-list {
 }
 ol.tilted-list > li.number{
     position: relative;
-    padding: 0;
+    padding: 1em;
     background-color: clear;
 }
 ol.tilted-list > li.number:before {
