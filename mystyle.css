@@ -122,27 +122,6 @@ img.list {
 	text-align:center;
 }
 
-.custom-counter {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
-.custom-counter li {
-  margin-bottom: 10px;
-}
-
-.custom-counter li.number::before {
-  content: counter(step-counter);
-  margin-right: 5px;
-  font-size: 80%;
-  background-color:#ee2e31;
-  color: white;
-  font-weight: bold;
-  padding: 3px 8px;
-  border-radius: 3px;
-}
-
 ol.tilted-list {
     list-style-type: none;
     list-style-type: decimal !ie; /*IE 7- hack*/
