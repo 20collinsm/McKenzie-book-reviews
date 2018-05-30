@@ -139,14 +139,14 @@ ol.tilted-list > li.number{
 ol.tilted-list > li.number:before {
     position: absolute;
     top: 0;
-    left: -0.95em;
+    left: 0;
     width: 1em;
  
     font-size: 4em;
     line-height: 1;
     font-weight: bold;
     text-align: right;
-    color: #ee2e31;
+    color: black;
      
     transform: rotate(-25deg);
     -ms-transform: rotate(-25deg);
