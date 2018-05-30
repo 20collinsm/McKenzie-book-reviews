@@ -139,7 +139,7 @@ ol.tilted-list > li.number{
 ol.tilted-list > li.number:before {
     position: absolute;
     top: 0;
-    left: 0;
+    left: -0.95em;
     width: 1em;
  
     font-size: 4em;
