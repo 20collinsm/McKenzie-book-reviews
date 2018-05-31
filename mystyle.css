@@ -171,3 +171,9 @@ button {
     background-color: #ee2e31;
     cursor: pointer; /* displays a hand */
   }
+
+div#clock {
+	font-size:100px;
+	font-family:"Times new roman";
+	display: block;
+ }
