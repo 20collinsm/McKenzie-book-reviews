@@ -156,3 +156,18 @@ ol.circles-list > li.number:before {
     content: counter(li-counter);
     counter-increment: li-counter;
 }
+
+button { 
+    font-size: 1.1em;
+    background-color: #071e22;
+    color: #f4c095;
+    border: 2px solid black;
+    box-shadow: 4px 4px 4px #999999;
+  }
+
+  button:hover, button:focus, button:active { 
+    /* swap colors */
+    color: black;
+    background-color: #ee2e31;
+    cursor: pointer; /* displays a hand */
+  }
