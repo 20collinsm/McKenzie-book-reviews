@@ -152,7 +152,7 @@ ol.circles-list > li.number:before {
  
     border: 3px solid #ee2e31;
     border-radius: 50%;
-    background-color: #1d7874;
+    background-color: #071e22;
     content: counter(li-counter);
     counter-increment: li-counter;
 }
